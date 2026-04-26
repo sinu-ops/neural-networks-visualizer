@@ -8,7 +8,7 @@
 
 > 🎓 An interactive web-based tool for understanding neural networks through beautiful visualizations. Perfect for students, educators, and ML enthusiasts!
 
-**[🌐 Live Demo](https://neural-networks-visualizer-sinu.streamlit.app)** | **[📖 Documentation](#documentation)** | **[🤝 Contributing](#contributing)**
+**[🌐 Live Demo][(https://neural-networks-visualizer-sinu.streamlit.app](https://neural-networks-visualizer-hnpvhmot6etfkbqdh4hdel.streamlit.app/))** | **[📖 Documentation](#documentation)** | **[🤝 Contributing](#contributing)**
 
 ---
 
