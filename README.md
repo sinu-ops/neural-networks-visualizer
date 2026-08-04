@@ -1,4 +1,5 @@
-# 🧠 Neural Network Visualizer
+# 🧠 Neural Network Visualizer using tensorflow and pytorch 
+
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)
 [![TensorFlow 2.7+](https://img.shields.io/badge/tensorflow-2.7%2B-orange)](https://www.tensorflow.org/)
